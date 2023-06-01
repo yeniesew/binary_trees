@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-
 /**
  * array_to_avl - builds an AVL tree from an array
  * @array: array to create from
